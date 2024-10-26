@@ -1,0 +1,3 @@
+﻿  task 2.cpp
+D:\oop c++\lesson 8\task 2\task 2.cpp(114): warning C4715: 'Document::operator=': not all control paths return a value
+  task 2.vcxproj -> D:\oop c++\lesson 8\Debug\task 2.exe
